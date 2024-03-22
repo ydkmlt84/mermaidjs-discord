@@ -13,7 +13,7 @@ Type in `!mermaid-help` for help on how to use this bot.
 ## Running this bot locally
 ### Installation
 ---
-This installation asumes you have `python3` installed on your machine and know how to use `pip`.
+This installation assumes you have `python3` installed on your machine and know how to use `pip`.
 
 Run the following in the project root directory to get all the dependencies
 >```bash

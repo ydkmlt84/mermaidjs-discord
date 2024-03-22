@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "mermaidjs-discord"
+name = "mermaidjs"
 version = "0.1.0"
 description = ""
 authors = ["YDKMLT84 <ydkmlt84@maintainerr.info>"]
