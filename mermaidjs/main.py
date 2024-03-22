@@ -6,7 +6,9 @@ import keep_alive
 from replit import db
 import json
 
-client = commands.Bot(command_prefix=commands.when_mentioned_or(("!mermaid-")))
+intents = discord.Intents.default()
+intents.message_content = True
+client = commands.Bot(intents=intents command_prefix=commands.when_mentioned_or(("!mermaid-")))
 
 client.remove_command('help')
 
